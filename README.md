@@ -19,4 +19,5 @@ Building clean, responsive, and user-friendly web experiences.
 Passionate about creating beautiful and functional web applications.
 Fun Fact: I enjoy turning ideas into interactive websites.
 
-📫 Connect with me on LinkedIn!
+Connect with me on LinkedIn!
+https://www.linkedin.com/in/darshana-bhandari-66876b363/
